@@ -3,6 +3,7 @@ import jwt from 'jsonwebtoken';
 import { config } from '../config';
 import { JWTPayload } from '../types';
 import { updateAllPriorities } from '../engine/antiStarvation';
+import { startSimulationEngine } from '../engine/simulation';
 
 let io: Server;
 
@@ -50,6 +51,9 @@ export function setupSocketHandlers(socketServer: Server): void {
       io.emit('queue_updated', { timestamp: new Date().toISOString() });
     }
   }, 30000); // Every 30 seconds
+
+  // Start the Digital Twin simulation engine
+  startSimulationEngine(io);
 }
 
 // Helper to emit events from anywhere

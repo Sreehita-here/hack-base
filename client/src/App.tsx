@@ -9,6 +9,7 @@ import HealthcareRequestPage from './pages/HealthcareRequestPage';
 import CampusBookingPage from './pages/CampusBookingPage';
 import QueuePage from './pages/QueuePage';
 import AdminPage from './pages/AdminPage';
+import DigitalTwinPage from './pages/DigitalTwinPage';
 import AppLayout from './components/layout/AppLayout';
 import ToastContainer from './components/notifications/ToastContainer';
 
@@ -42,6 +43,7 @@ export default function App() {
           <Route path="healthcare-request" element={<HealthcareRequestPage />} />
           <Route path="campus-booking" element={<CampusBookingPage />} />
           <Route path="queue" element={<QueuePage />} />
+          <Route path="digital-twin" element={<DigitalTwinPage />} />
           <Route path="admin" element={<AdminPage />} />
         </Route>
       </Routes>

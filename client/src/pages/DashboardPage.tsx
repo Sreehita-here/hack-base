@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { useResourceStore } from '../stores/resourceStore';
 import { useAuthStore } from '../stores/authStore';
+import { getSocket } from '../lib/socket';
 import { motion } from 'framer-motion';
 import { Activity, CheckCircle, Clock, AlertTriangle, TrendingUp, Calendar, BarChart3 } from 'lucide-react';
 import KPICard from '../components/dashboard/KPICard';
@@ -16,8 +17,30 @@ export default function DashboardPage() {
     fetchDashboard();
     fetchActivities();
     fetchResources();
-    const interval = setInterval(() => { fetchDashboard(); fetchActivities(); }, 30000);
-    return () => clearInterval(interval);
+
+    // Listen for real-time simulation events
+    const socket = getSocket();
+    const onResourcesUpdated = () => { fetchResources(); };
+    const onDashboardUpdated = () => { fetchDashboard(); };
+    const onActivitiesUpdated = () => { fetchActivities(); };
+
+    if (socket) {
+      socket.on('resources_updated', onResourcesUpdated);
+      socket.on('dashboard_updated', onDashboardUpdated);
+      socket.on('activities_updated', onActivitiesUpdated);
+    }
+
+    // Fallback polling (every 30s) in case socket disconnects
+    const interval = setInterval(() => { fetchDashboard(); fetchActivities(); fetchResources(); }, 30000);
+
+    return () => {
+      clearInterval(interval);
+      if (socket) {
+        socket.off('resources_updated', onResourcesUpdated);
+        socket.off('dashboard_updated', onDashboardUpdated);
+        socket.off('activities_updated', onActivitiesUpdated);
+      }
+    };
   }, []);
 
   const stats = dashboardStats;
@@ -30,8 +53,8 @@ export default function DashboardPage() {
           <p className="text-sm text-white/60 mt-0.5">Real-time overview of all resources</p>
         </div>
         <div className="flex items-center gap-2 text-xs text-white/40">
-          <div className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-          Live updates active
+          <div className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse shadow-[0_0_8px_rgba(52,211,153,0.8)]" />
+          Live Digital Twin Active
         </div>
       </div>
 

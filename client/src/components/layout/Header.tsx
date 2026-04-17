@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { Bell, Search, Wifi, WifiOff } from 'lucide-react';
+import { Bell, Wifi, WifiOff } from 'lucide-react';
 import { useNotificationStore } from '../../stores/notificationStore';
 import { useAuthStore } from '../../stores/authStore';
 import NotificationCenter from '../notifications/NotificationCenter';
@@ -8,7 +8,6 @@ export default function Header() {
   const { unreadCount, fetchNotifications, isOpen, setOpen } = useNotificationStore();
   const user = useAuthStore(s => s.user);
   const [connected] = useState(true);
-  const [search, setSearch] = useState('');
   const bellRef = useRef<HTMLButtonElement>(null);
 
   useEffect(() => {
@@ -18,18 +17,8 @@ export default function Header() {
   }, []);
 
   return (
-    <header className="h-16 glass-panel border-x-0 border-t-0 flex items-center justify-between px-6 shrink-0 z-20">
-      {/* Search */}
-      <div className="relative w-80">
-        <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-cyan-500/50" />
-        <input
-          type="text"
-          placeholder="Search resources, requests..."
-          value={search}
-          onChange={e => setSearch(e.target.value)}
-          className="w-full pl-10 pr-4 py-2 glass-input rounded-xl text-sm transition-all"
-        />
-      </div>
+    <header className="h-16 glass-panel border-x-0 border-t-0 flex items-center justify-end px-6 shrink-0 z-20">
+
 
       {/* Right side */}
       <div className="flex items-center gap-4">

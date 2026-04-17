@@ -2,7 +2,7 @@ import { NavLink, useLocation } from 'react-router-dom';
 import { useAuthStore } from '../../stores/authStore';
 import {
   LayoutDashboard, Package, HeartPulse, GraduationCap,
-  ListOrdered, Shield, LogOut, Activity
+  ListOrdered, Shield, LogOut, Activity, Cpu
 } from 'lucide-react';
 
 const navItems = [
@@ -11,6 +11,7 @@ const navItems = [
   { to: '/healthcare-request', icon: HeartPulse, label: 'Healthcare Request', roles: ['doctor'] },
   { to: '/campus-booking', icon: GraduationCap, label: 'Campus Booking', roles: ['student'] },
   { to: '/queue', icon: ListOrdered, label: 'Waiting Queue', roles: ['admin', 'doctor', 'student'] },
+  { to: '/digital-twin', icon: Cpu, label: 'Digital Twin', roles: ['admin'] },
   { to: '/admin', icon: Shield, label: 'Admin Panel', roles: ['admin'] },
 ];
 
