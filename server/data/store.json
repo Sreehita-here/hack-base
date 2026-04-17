@@ -320,11 +320,11 @@
       "resourceType": "icu_bed",
       "severity": "critical",
       "basePriority": 100,
-      "effectivePriority": 318,
+      "effectivePriority": 326,
       "status": "queued",
       "timestamp": "2026-04-17T10:39:45.240Z",
       "queuePosition": 1,
-      "priorityBoosts": 218,
+      "priorityBoosts": 226,
       "isEmergency": false,
       "boostNotified": true,
       "details": {
@@ -368,11 +368,11 @@
       "resourceType": "ventilator",
       "severity": "critical",
       "basePriority": 100,
-      "effectivePriority": 313,
+      "effectivePriority": 321,
       "status": "queued",
       "timestamp": "2026-04-17T10:49:45.240Z",
       "queuePosition": 1,
-      "priorityBoosts": 213,
+      "priorityBoosts": 221,
       "isEmergency": false,
       "boostNotified": true,
       "details": {
@@ -21694,6 +21694,1746 @@
       "priority": "urgent",
       "read": false,
       "createdAt": "2026-04-17T17:54:21.756Z"
+    },
+    {
+      "id": "f4cde5d2-c14c-446d-b52a-257eb30e0223",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 435 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:54:51.748Z"
+    },
+    {
+      "id": "550b5b8d-de41-4b65-8715-0a019c21b82c",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 435 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:54:51.757Z"
+    },
+    {
+      "id": "c65650aa-b390-4daf-88b8-a6cdeec67439",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 482 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:54:51.767Z"
+    },
+    {
+      "id": "73dd9124-7693-42ce-82d4-f41f12bd68fe",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 482 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:54:51.779Z"
+    },
+    {
+      "id": "10709d3f-c30f-4160-b2ce-5bf22a748f40",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 425 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:54:51.790Z"
+    },
+    {
+      "id": "7ff16264-7e41-41e2-a762-1aad27c9b6e7",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 425 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:54:51.801Z"
+    },
+    {
+      "id": "237c31e0-ab04-45d1-a355-3f21db552e94",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 435 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:21.728Z"
+    },
+    {
+      "id": "d03988af-f2b8-433c-b0b4-73f93a5d4133",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 435 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:21.738Z"
+    },
+    {
+      "id": "616a2524-2021-44fd-94ad-9473a610d806",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 482 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:21.750Z"
+    },
+    {
+      "id": "0f45d8e4-dc2d-414c-a192-c4d4d6c2ce9d",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 482 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:21.759Z"
+    },
+    {
+      "id": "51284c57-d2e9-48c7-9c83-eaed8abd4ae9",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 425 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:21.770Z"
+    },
+    {
+      "id": "1312a89c-3718-4153-8270-ec9ab57c3965",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 425 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:21.780Z"
+    },
+    {
+      "id": "daab11d2-9f94-40fd-abf0-90bc3be2a2d0",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 436 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:51.729Z"
+    },
+    {
+      "id": "ea165e0c-ed59-4333-a37f-bca4cf1f2825",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 436 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:51.737Z"
+    },
+    {
+      "id": "96a8bfa3-862c-4b92-86b3-1d0bd3a02f7b",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 483 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:51.747Z"
+    },
+    {
+      "id": "babdedd3-4d2b-4572-899b-b07ac45603f3",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 483 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:51.757Z"
+    },
+    {
+      "id": "7bbb8d26-1e0d-4b15-a8cd-358aa6540f4a",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 426 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:51.765Z"
+    },
+    {
+      "id": "9f0caa05-2477-40c7-a64e-02720085218d",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 426 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:55:51.772Z"
+    },
+    {
+      "id": "b02f2336-a9c0-403a-ae81-34558084f3f4",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 436 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:21.751Z"
+    },
+    {
+      "id": "7690d4ac-d554-49a6-9d19-c11ae4e9f7df",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 436 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:21.760Z"
+    },
+    {
+      "id": "119eda13-315d-4a78-a957-5e64588c8e3a",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 483 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:21.768Z"
+    },
+    {
+      "id": "9da8c145-55bb-4163-8df3-d885470a6911",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 483 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:21.776Z"
+    },
+    {
+      "id": "194cd48b-21d1-412c-9f56-e361d2957006",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 426 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:21.784Z"
+    },
+    {
+      "id": "8191d2b6-a3db-426b-b37f-c83996d67357",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 426 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:21.793Z"
+    },
+    {
+      "id": "ee1a3613-971e-41e2-9127-d54f39ff5a19",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 437 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:51.784Z"
+    },
+    {
+      "id": "30b1039d-b2c0-4550-8ea3-b3b614d6c934",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 437 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:51.799Z"
+    },
+    {
+      "id": "f0ad9e93-3ee4-48a0-8782-dfcbee38b0bd",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 484 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:51.811Z"
+    },
+    {
+      "id": "e668bd6b-0d4d-45a7-89dd-f8613eac8903",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 484 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:51.821Z"
+    },
+    {
+      "id": "106ca769-dcc6-4b3d-865d-c69a9e85acfa",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 427 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:51.830Z"
+    },
+    {
+      "id": "b11badcd-939e-4343-ace6-ff56180a8d88",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 427 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:56:51.839Z"
+    },
+    {
+      "id": "25b77457-0c57-47a0-8006-47955a825ca8",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 437 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:21.793Z"
+    },
+    {
+      "id": "f2521222-b6aa-42f3-a322-61a6cc2b0166",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 437 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:21.807Z"
+    },
+    {
+      "id": "469fba2d-6c5c-496a-93b3-5218fdf3314e",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 484 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:21.822Z"
+    },
+    {
+      "id": "a508a9fa-f2fb-4b4a-84db-61bbb52dfe06",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 484 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:21.838Z"
+    },
+    {
+      "id": "6d29a866-980d-4d03-a4b1-fb49609804fe",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 427 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:21.848Z"
+    },
+    {
+      "id": "1afc1e48-f356-4d32-882c-6312d6e9776c",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 427 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:21.859Z"
+    },
+    {
+      "id": "360eb1a3-982f-4149-97d0-aa1bca927cdd",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 438 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:51.771Z"
+    },
+    {
+      "id": "5e75f56d-a28f-41c8-9978-72c732e2eab1",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 438 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:51.784Z"
+    },
+    {
+      "id": "314e4988-f29f-411f-8cd1-56fc6eb2b468",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 485 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:51.794Z"
+    },
+    {
+      "id": "e3bb0e55-eb91-4b0c-abc4-50a941f075d0",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 485 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:51.807Z"
+    },
+    {
+      "id": "66ea3ea1-41df-4cc0-ba97-f304fc25f02b",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 428 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:51.823Z"
+    },
+    {
+      "id": "054d33e1-43ca-4eda-afec-e4f64fcffa85",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 428 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:57:51.833Z"
+    },
+    {
+      "id": "974862bd-9c9a-488b-ae4d-af0a9061ae62",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 438 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:21.788Z"
+    },
+    {
+      "id": "42509b63-e544-4027-b114-ff4b6b5bdb36",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 438 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:21.799Z"
+    },
+    {
+      "id": "049f1c59-9774-4a1d-b7c8-eefe4303218f",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 485 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:21.809Z"
+    },
+    {
+      "id": "b6f9dfc5-e946-43c6-a85b-a4973072c030",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 485 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:21.819Z"
+    },
+    {
+      "id": "8826d7de-95bb-4303-a44b-983f55713f63",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 428 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:21.830Z"
+    },
+    {
+      "id": "10da8501-7247-4a44-acfe-53ba53c2dd26",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 428 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:21.841Z"
+    },
+    {
+      "id": "24721cc6-bddc-4f04-a683-489f3390328c",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 439 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:51.821Z"
+    },
+    {
+      "id": "8b0844c4-5dbb-4a0a-b088-b106c5eceba3",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 439 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:51.833Z"
+    },
+    {
+      "id": "e1c0a8a2-70d2-4a61-b18d-e9d6415cd5d9",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 486 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:51.847Z"
+    },
+    {
+      "id": "3b60705b-f4cd-45b2-8a0b-2d2dc64d0ca7",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 486 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:51.861Z"
+    },
+    {
+      "id": "4df01941-2bfa-4c63-a25d-066b15160675",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 429 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:51.874Z"
+    },
+    {
+      "id": "1dcb1982-7946-449f-8818-a79faab10656",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 429 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:58:51.883Z"
+    },
+    {
+      "id": "8c1bae14-95a3-416b-a6c4-27d9f4672c2f",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 439 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:21.811Z"
+    },
+    {
+      "id": "c166e1a9-6f40-4a76-900d-9e34824bcd8c",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 439 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:21.828Z"
+    },
+    {
+      "id": "463690dc-e124-4df5-9078-bed0a7bf0e0f",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 486 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:21.847Z"
+    },
+    {
+      "id": "c7e67e27-5e91-42d6-9426-47db42f477cb",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 486 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:21.862Z"
+    },
+    {
+      "id": "e92001cb-063a-437f-a7f1-c3e1e15f66b6",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 429 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:21.875Z"
+    },
+    {
+      "id": "06965036-cc95-4ef3-886b-f55ca86d4e2e",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 429 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:21.887Z"
+    },
+    {
+      "id": "7b0453bc-a239-4715-8050-64dd535b3294",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 440 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:51.803Z"
+    },
+    {
+      "id": "17e5cc53-ff18-4b3c-b980-9509aa136535",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 440 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:51.814Z"
+    },
+    {
+      "id": "c4f63666-d793-4980-9a7a-a4c0d96c8840",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 487 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:51.824Z"
+    },
+    {
+      "id": "78e07fa6-5c39-43cd-a4f3-0cfc6799d5ba",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 487 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:51.837Z"
+    },
+    {
+      "id": "f67288f4-96eb-4926-bd7d-098441a8f955",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 430 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:51.850Z"
+    },
+    {
+      "id": "c55a26ad-d827-4789-9cd2-18860bf9d93f",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 430 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T17:59:51.868Z"
+    },
+    {
+      "id": "f8f8a561-3421-46eb-8060-bf73900c1f70",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 440 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:21.839Z"
+    },
+    {
+      "id": "e947736f-0cd0-4240-a56e-996a80d43669",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 440 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:21.863Z"
+    },
+    {
+      "id": "5c72293f-f353-4df0-8a42-9b3a5c4d4898",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 487 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:21.882Z"
+    },
+    {
+      "id": "9e50cf7b-cfd7-4519-846b-3a05d882b17a",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 487 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:21.901Z"
+    },
+    {
+      "id": "375259bc-0c71-42dd-bb76-848c009d56d6",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 430 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:21.923Z"
+    },
+    {
+      "id": "2f477a3d-530c-4e57-acea-97bf5cf38687",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 430 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:21.942Z"
+    },
+    {
+      "id": "3232c4f5-237e-497a-bf1f-c06b0c810510",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 441 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:51.885Z"
+    },
+    {
+      "id": "89ee99a7-2bbb-45f7-9eba-539f1222fa97",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 441 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:51.899Z"
+    },
+    {
+      "id": "596f09c4-9ffe-496f-9c35-f410607bc130",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 488 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:51.916Z"
+    },
+    {
+      "id": "381f6bc2-804c-43f3-b9fd-3f529a618474",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 488 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:51.933Z"
+    },
+    {
+      "id": "61fc3a71-8a11-47d2-92af-b6dd214d740b",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 431 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:51.946Z"
+    },
+    {
+      "id": "ca39a94a-70b3-4132-9ce4-74b45d5e5343",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 431 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:00:51.955Z"
+    },
+    {
+      "id": "9d0d3b4f-ac83-4ab5-889a-8b673426ff19",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 441 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:21.852Z"
+    },
+    {
+      "id": "ed38378d-0a3c-4d71-aea1-67f8bad3c1f6",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 441 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:21.867Z"
+    },
+    {
+      "id": "5295a357-d5e8-4ec0-888b-ee3dafdf517a",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 488 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:21.884Z"
+    },
+    {
+      "id": "c4eec9f1-5715-4332-92ef-52697ae7b1fd",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 488 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:21.899Z"
+    },
+    {
+      "id": "015cabba-7c55-4ccb-923a-73a005b7105d",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 431 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:21.918Z"
+    },
+    {
+      "id": "be56474c-aa60-4ee2-93e4-0ff2aa2834fe",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 431 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:21.935Z"
+    },
+    {
+      "id": "a7e1961e-4a86-4b3b-90a6-c9abd4f3f0a6",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 442 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:51.858Z"
+    },
+    {
+      "id": "fef87c3e-0cbe-4097-9d97-50f070f3e7ec",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 442 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:51.874Z"
+    },
+    {
+      "id": "cdd6c9cf-6fab-4a80-9273-a1d0b7942b01",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 489 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:51.889Z"
+    },
+    {
+      "id": "2b9ddf5b-4d53-45aa-9733-cc7c83babeb1",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 489 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:51.901Z"
+    },
+    {
+      "id": "86753f23-9940-4b94-89d8-bd8f8c6c9dfa",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 432 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:51.914Z"
+    },
+    {
+      "id": "ffdfa3c4-0c36-45d0-9d29-d72347eda2a9",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 432 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:01:51.926Z"
+    },
+    {
+      "id": "99d20977-fdfc-4f9f-b88f-afc777ee57df",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 442 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:21.870Z"
+    },
+    {
+      "id": "8735da49-85e4-4817-8e83-27a48bfea867",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 442 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:21.888Z"
+    },
+    {
+      "id": "c1a16199-dd3f-4422-82f5-dba87b7ec591",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 489 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:21.903Z"
+    },
+    {
+      "id": "54c0a348-b20f-4197-a2e7-443728fd8b0d",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 489 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:21.915Z"
+    },
+    {
+      "id": "0405b728-7659-43f3-be17-855932410b2d",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 432 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:21.932Z"
+    },
+    {
+      "id": "4d936ea0-7feb-4b7e-8e43-20644f706fae",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 432 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:21.946Z"
+    },
+    {
+      "id": "2c7337da-2183-4c24-83c6-9d3d963e230b",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 443 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:51.887Z"
+    },
+    {
+      "id": "0ed1d143-830b-49dd-8cd7-8636b16fd0f9",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 443 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:51.900Z"
+    },
+    {
+      "id": "3f66fa35-a4da-4225-89e0-4099517c22bb",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 490 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:51.912Z"
+    },
+    {
+      "id": "16d96ee5-512a-4e13-ad1f-9ea369acbc17",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 490 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:51.928Z"
+    },
+    {
+      "id": "2d813007-7dcb-4423-bffe-8de22a32b206",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 433 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:51.947Z"
+    },
+    {
+      "id": "adb2d045-ace3-4ac3-ae92-4cb9f59bc83f",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 433 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:02:51.966Z"
+    },
+    {
+      "id": "590993d9-7477-4972-88e9-1ac5e4cfef7d",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 443 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:21.879Z"
+    },
+    {
+      "id": "d1153f3a-3fd7-4e25-8e71-145e398f80e6",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 443 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:21.895Z"
+    },
+    {
+      "id": "3c2cfa20-8b4d-412f-b9d2-174f807c8676",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 490 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:21.908Z"
+    },
+    {
+      "id": "46d0f119-ec4d-4bf2-892a-50286e5db1ea",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 490 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:21.924Z"
+    },
+    {
+      "id": "aceb1f82-ba71-4020-96a8-cb2c07873a66",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 433 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:21.937Z"
+    },
+    {
+      "id": "0fcc82db-1b3c-4fcf-8f6c-4280aa3e2b77",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 433 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:21.948Z"
+    },
+    {
+      "id": "8309d480-eb26-4d94-a015-3c18d5be5121",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 444 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:51.876Z"
+    },
+    {
+      "id": "b374a4b7-2897-464c-80bb-cb695b0d5820",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 444 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:51.888Z"
+    },
+    {
+      "id": "03890af6-13e8-40b4-becf-68edf2907b1b",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 491 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:51.901Z"
+    },
+    {
+      "id": "930b36d4-585f-4c24-a684-46e44a094372",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 491 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:51.915Z"
+    },
+    {
+      "id": "7388c94e-f289-47d6-aa91-f9eb808d6987",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 434 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:51.929Z"
+    },
+    {
+      "id": "08fd43d8-57e1-4db2-abf3-530532431e63",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 434 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:03:51.942Z"
+    },
+    {
+      "id": "47053f45-b5d1-4ab6-8c31-d790e650b8ba",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 444 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:21.906Z"
+    },
+    {
+      "id": "d5b92c1e-a24c-4750-8dc7-9cab7de36689",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 444 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:21.930Z"
+    },
+    {
+      "id": "4dabac75-0743-4e33-9bed-19076a1ce1e8",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 491 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:21.955Z"
+    },
+    {
+      "id": "25991b23-355e-435a-9aae-f86d499e7849",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 491 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:21.969Z"
+    },
+    {
+      "id": "39f45c1a-c6a2-403d-b480-ae38e290ce44",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 434 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:21.983Z"
+    },
+    {
+      "id": "f3219788-b83e-4d6d-aa69-4c731c80454e",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 434 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:21.996Z"
+    },
+    {
+      "id": "c7e634ba-fc92-424a-99c7-bab297c2678b",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 445 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:51.933Z"
+    },
+    {
+      "id": "8c2bbe2e-6eae-4ee0-ba0a-2b83307553f1",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 445 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:51.948Z"
+    },
+    {
+      "id": "e224975f-b035-4570-9841-308e23fab798",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 492 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:51.964Z"
+    },
+    {
+      "id": "c69ff129-cb3d-4687-8625-0b210cd6239a",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 492 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:51.976Z"
+    },
+    {
+      "id": "d56834fa-c234-400a-972a-c9e6316674e6",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 435 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:51.988Z"
+    },
+    {
+      "id": "51dd681a-542b-4bc6-8d72-f776d2ca1056",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 435 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:04:52.001Z"
+    },
+    {
+      "id": "7c25a6d7-0770-45c0-a283-e4143aca7ef6",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 445 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:21.894Z"
+    },
+    {
+      "id": "9428fb96-a1bd-4849-bd06-a43a73cc7933",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 445 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:21.904Z"
+    },
+    {
+      "id": "4f46b2df-7be5-4590-bb8f-d721f3c7a342",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 492 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:21.916Z"
+    },
+    {
+      "id": "d0ae26be-9594-4088-a64e-021f2c0a0834",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 492 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:21.930Z"
+    },
+    {
+      "id": "a11042d0-e649-4fbe-928a-c11aff835340",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 435 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:21.944Z"
+    },
+    {
+      "id": "4f680038-83bb-48e4-ad78-7055ac6de22a",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 435 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:21.958Z"
+    },
+    {
+      "id": "0585d96f-be85-4e48-9466-54ed94717eb5",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 446 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:51.928Z"
+    },
+    {
+      "id": "eadf877a-0421-439f-b4cd-429740942266",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 446 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:51.946Z"
+    },
+    {
+      "id": "1293109e-9bbe-4602-87aa-fa0d1308ce62",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 493 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:51.960Z"
+    },
+    {
+      "id": "7449b3e4-29e6-4468-a277-a661e4909a10",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 493 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:51.972Z"
+    },
+    {
+      "id": "74230979-0262-45b6-906a-6eb141a8bd44",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 436 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:51.984Z"
+    },
+    {
+      "id": "ca6f677c-1f9e-4c06-9667-f21e7fd17fd8",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 436 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:05:51.996Z"
+    },
+    {
+      "id": "40228725-37b1-43c8-a4b2-6f2d96086cea",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 446 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:21.933Z"
+    },
+    {
+      "id": "2e97a382-f25b-4f38-aa96-b9ad79704daf",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 446 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:21.953Z"
+    },
+    {
+      "id": "e00410e4-4f8c-4db6-b79a-afbff0b14d9b",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 493 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:21.966Z"
+    },
+    {
+      "id": "0d50c667-a704-4bf7-9efa-20cb9d949d54",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 493 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:21.983Z"
+    },
+    {
+      "id": "a87c672b-7623-49b3-8a31-7b71166c22b8",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 436 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:21.997Z"
+    },
+    {
+      "id": "005eac5e-9752-4b5d-a152-45ed11944d0b",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 436 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:22.012Z"
+    },
+    {
+      "id": "db8180e2-d914-4a85-8e07-a732e2754111",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 447 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:51.968Z"
+    },
+    {
+      "id": "aa20ff03-32e4-4ec2-b596-ba26792da8a6",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 447 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:51.985Z"
+    },
+    {
+      "id": "ce37a38b-6cd2-4196-8807-f4c7dfb56f1a",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 494 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:51.998Z"
+    },
+    {
+      "id": "638e58e3-dec2-4ef0-ba0b-df4eb39fe70b",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 494 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:52.010Z"
+    },
+    {
+      "id": "0b668524-3d12-407a-b3fd-51c7013e0760",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 437 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:52.022Z"
+    },
+    {
+      "id": "64a4918d-20a2-4e21-ad25-36ffb6df8baa",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 437 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:06:52.033Z"
+    },
+    {
+      "id": "93bfa27b-3f89-41a0-99eb-e2f7a559faea",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 447 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:21.939Z"
+    },
+    {
+      "id": "ff164852-3eed-46c7-8c11-e967407996e8",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 447 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:21.953Z"
+    },
+    {
+      "id": "ae0088ce-a9cd-4529-8cfd-4b40c4916e28",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 494 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:21.963Z"
+    },
+    {
+      "id": "aeb7ef93-b2b5-4117-894a-2aa7bd36fae6",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 494 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:21.974Z"
+    },
+    {
+      "id": "9603c62e-881e-4017-981f-0de96ca34aae",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 437 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:21.987Z"
+    },
+    {
+      "id": "bbce2a29-9926-49ae-a9b3-28754fa37317",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 437 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:21.998Z"
+    },
+    {
+      "id": "6a65bf44-39f5-45c9-8ec7-39105adbd2aa",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 448 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:51.949Z"
+    },
+    {
+      "id": "9933e355-a7ab-4678-ba89-3b023d53db31",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 448 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:51.963Z"
+    },
+    {
+      "id": "56dac9d3-afcf-42e8-bb8b-bbad2f7c4593",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 495 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:51.979Z"
+    },
+    {
+      "id": "6e7a011f-42e6-4148-8b0e-5123bb493165",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 495 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:51.992Z"
+    },
+    {
+      "id": "4a2173c1-1303-446e-844d-a1c65df9cf73",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 438 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:52.003Z"
+    },
+    {
+      "id": "1944c9f6-b979-40db-ada3-d9cb4105210a",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 438 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:07:52.012Z"
+    },
+    {
+      "id": "ea20fd29-2454-48db-9072-f55bf311e713",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 448 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:21.969Z"
+    },
+    {
+      "id": "b0f52138-e0b2-4653-8eb5-4f94be0c049f",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 448 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:21.984Z"
+    },
+    {
+      "id": "69287ef4-7585-4c35-9329-1ba5d0d10d11",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 495 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:21.998Z"
+    },
+    {
+      "id": "92d62cbc-b417-4302-927d-d6f2b6154d3a",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 495 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:22.011Z"
+    },
+    {
+      "id": "a8db0dd7-d0ab-45f6-8f1e-39bbb2378d49",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 438 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:22.025Z"
+    },
+    {
+      "id": "e5bff48f-06f5-4804-826e-69a43d7127da",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 438 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:22.035Z"
+    },
+    {
+      "id": "3b561de6-c1c7-4aa7-a359-11cc267019a3",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 449 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:51.993Z"
+    },
+    {
+      "id": "02d2d78f-cd6f-41ca-bed4-87224b0e2141",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 449 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:52.007Z"
+    },
+    {
+      "id": "e35d1e31-79d9-4c5c-ab31-bde63e7852c0",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 496 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:52.017Z"
+    },
+    {
+      "id": "11df526f-748a-425d-9bb7-7f460d9780c5",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Nurse Emily Chen has been waiting 496 minutes for icu_bed",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:52.029Z"
+    },
+    {
+      "id": "de66f954-963d-4f39-8700-c59e2248b691",
+      "userId": "00abeccd-7ec1-42a3-abde-6c6027043d10",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 439 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:52.046Z"
+    },
+    {
+      "id": "c1f7b7a1-567a-45d5-82aa-6d0dfc84e28d",
+      "userId": "c6e4be92-ffe2-4b6c-9318-c26539f2dc41",
+      "type": "system",
+      "title": "🚨 Long Wait Alert",
+      "message": "User Dr. James Wilson has been waiting 439 minutes for ventilator",
+      "priority": "urgent",
+      "read": false,
+      "createdAt": "2026-04-17T18:08:52.064Z"
     }
   ],
   "activities": [
@@ -21766,4 +23506,70 @@
     {
       "id": "5a0f43f4-1c1f-4d46-a427-9db806ccb524",
       "type": "request_queued",
-      "title":
+      "title": "New Request",
+      "description": "Dr. James Wilson requested general_bed (moderate)",
+      "userId": "5e70453d-fee5-42eb-8be1-d09b32f159ff",
+      "timestamp": "2026-04-17T11:41:16.873Z"
+    },
+    {
+      "id": "f9be467d-cef7-4e41-84c4-0208fe58426d",
+      "type": "allocation",
+      "title": "ICU Bed Allocated",
+      "description": "ICU-12 allocated to Dr. Wilson for patient John D.",
+      "resourceId": "f53058d9-4a6f-4080-8c92-4f3224c8a579",
+      "userId": "5e70453d-fee5-42eb-8be1-d09b32f159ff",
+      "timestamp": "2026-04-17T10:52:45.240Z"
+    },
+    {
+      "id": "8c8fdef7-eced-4236-8535-838d042a7435",
+      "type": "request_queued",
+      "title": "Request Queued",
+      "description": "Lab-A requested by Student Alex Johnson",
+      "resourceId": "57c26e4b-b55b-4cb3-be93-af1cb774e4c7",
+      "userId": "623893da-f714-42fb-a326-a0c0e2966e6d",
+      "timestamp": "2026-04-17T10:49:45.240Z"
+    },
+    {
+      "id": "f39dcd64-39ab-4fd6-b901-e6e842612e6e",
+      "type": "resource_released",
+      "title": "Ventilator Released",
+      "description": "Ventilator-7 freed, auto-assigned to queue #1",
+      "resourceId": "1daba782-1394-4585-b647-2e863054d30a",
+      "timestamp": "2026-04-17T10:46:45.240Z"
+    },
+    {
+      "id": "493676be-3869-4f6c-bb52-9afdd7389b9d",
+      "type": "booking_created",
+      "title": "Lab Booked",
+      "description": "Computer Lab booked by Alex Johnson for tomorrow",
+      "resourceId": "57c26e4b-b55b-4cb3-be93-af1cb774e4c7",
+      "userId": "623893da-f714-42fb-a326-a0c0e2966e6d",
+      "timestamp": "2026-04-17T10:39:45.240Z"
+    }
+  ],
+  "settings": {
+    "priorityWeights": {
+      "critical": 100,
+      "moderate": 50,
+      "mild": 20
+    },
+    "antiStarvation": {
+      "boostStartThreshold": 15,
+      "boostRate": 0.5,
+      "maxBoostMultiplier": 2,
+      "adminAlertThreshold": 120
+    },
+    "booking": {
+      "maxDuration": 4,
+      "advanceBookingDays": 14,
+      "cancellationDeadlineHours": 2,
+      "noShowPenalty": true
+    },
+    "system": {
+      "maxQueueSize": 50,
+      "maxConcurrentBookingsPerUser": 3,
+      "sessionTimeoutMinutes": 30,
+      "queueRefreshIntervalSeconds": 30
+    }
+  }
+}
